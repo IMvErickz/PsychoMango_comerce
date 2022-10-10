@@ -16,3 +16,26 @@ nav{
   margin-top: 7px;
   width: 3.2rem;
 }
+
+#par{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  font-family: Apple Chancery,
+      cursive;
+}
+
+#camp{
+  justify-content: center;
+  border-radius: 15px;
+  border-color: #ffd222;
+  border-style: solid;
+  width: 100%;
+  background-color: #102d4d;
+}
+
+#prin{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

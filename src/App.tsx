@@ -23,4 +23,19 @@ function Head() {
   )
 }
 
-export default Head
+function Body() {
+  return (
+    <div id='prin'>
+      <fieldset id='camp'>
+        <div>
+          <p id='par'>
+            Sua loja de mangás favorita! <br />
+            Venha conferir!
+          </p>
+         </div>
+      </fieldset>
+    </div>
+  )
+}
+
+export default {Head, Body}
